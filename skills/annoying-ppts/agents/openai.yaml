@@ -1,0 +1,6 @@
+interface:
+  display_name: "Annoying PPTs"
+  short_description: "大学课堂、竞赛、汇报与生涯展示 PPT 制作"
+  default_prompt: "Use $annoying-ppts to turn my topic and materials into a clear, editable university presentation."
+policy:
+  allow_implicit_invocation: true
